@@ -14,5 +14,13 @@ The property of having **various forms at a time** is known as polymorphism.
 
 ![image](https://github.com/user-attachments/assets/25b14168-f3f0-46db-a532-77f9da2d832c)
 
+4. Compile type polymorphism
+
+It is the type of polymorphism in which implementation happens at compile time only. EX- Method Overloading
+
+
+
+
+
 
 
