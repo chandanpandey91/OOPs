@@ -1,4 +1,4 @@
-# OOPs
+# Object Oriented Programs
 
 1.Inheritance
 
@@ -7,5 +7,12 @@
 2.Types of Inheritance
 
 ![image](https://github.com/user-attachments/assets/58b5c8bc-63ef-4af0-a2f6-9e8741c66442)
+
+3.Polymorphism
+
+The property of having **various forms at a time** is known as polymorphism.
+
+![image](https://github.com/user-attachments/assets/25b14168-f3f0-46db-a532-77f9da2d832c)
+
 
 
